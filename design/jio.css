@@ -1,0 +1,641 @@
+@media (min-width:320px){
+	body{
+		background: url(waves1.jpg);
+		background-attachment: fixed;
+		background-size: cover;
+		margin: 0;
+		top: 10px;
+		padding: 0;
+		font-family: arial;
+	}
+	div.main-section{
+		margin: 0px auto;
+		background-size:cover;
+		background: url(york.jpg);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+	div.main-material{
+		height:1650px;
+		overflow: hidden;
+		margin: 0px;
+		background-attachment: fixed;
+		background-size:cover;
+	}
+	img.main2-img{
+		width: 100%;
+	}
+	div.main2{
+		position: absolute;
+		width: 100%;
+		height: 200px;
+		overflow: show;
+		color: white;
+		font-family: sans-serif;
+		font-size: 30px;
+	}
+	div.main2 p{
+		font-size: 40px;
+		margin-left: -20px;
+		margin-top: 150px;
+	}
+/*Buy domain button css starts from here*/
+	button.main{
+		float: right;
+		background-color: transparent;
+		border: solid white;
+		color: white;
+		padding: 10px;
+		margin-right: 20px;
+		width: 100px;
+		font-size: 12px;
+		cursor: pointer;
+	}
+	button.main:hover{
+		margin-right: 20px;
+		float: right;
+		background-color: transparent;
+		border: solid white;
+		color: white;
+		padding: 10px;
+		width: 100px;
+		box-shadow: 0 0 10px;
+		cursor: pointer;
+	}
+	button.letsgo{
+		color: white; 
+		background-color: #4285f4;
+		border:none; 
+		padding: 20px; 
+		font-family: sans-serif;
+		font-size: 20px;
+	}
+	
+	button.letsgo:hover{
+		color: white; 
+		background-color: #4285f4;
+		border:none; 
+		padding: 20px; 
+		font-family: sans-serif;
+		font-size: 20px;
+		cursor: pointer;
+		box-shadow: 0 0 30px;
+	}
+/*Buy domain css ends from here*/
+/*Ul li main top nav css starts from here*/
+	div.nav{
+		margin:10px auto;
+		color: white;
+		width: 100%;
+		cursor: pointer;
+		display:inline-block;
+		background-color:transparent;
+	}
+	ul{
+		margin: 0px  auto;
+		padding: 0;
+		list-style: none;
+	}
+	ul li{
+		margin-right: 25px;
+		float: left;
+		width: 100px;
+		height: 40px;
+		line-height: 40px;
+		text-align: center;
+		font-size: 18px;
+		background-color: transparent;
+	}
+	ul li{
+		color: white;
+		display: block;
+	}
+	ul li:hover{
+		color: black;
+		background-color: white;
+	}
+	ul li ul li{
+		color: black;
+		background-color: white;
+		display: none;
+		margin-top: 0px;
+	}
+	ul li:hover ul li{
+		display: block;
+	}
+div.Recent{	
+	width: 1017px;	
+	margin: 0 auto;	
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+/*How to create a web with westudio.in css started from here*/
+div.create{
+	background:url(hemoglobin.jpg);
+	width: 100%;
+	margin-top: -1px;
+	height: 500px;
+	position:absolute;
+	background-size: cover;
+	color: white;
+}
+div.How h2{
+	position: absolute;
+	margin-top: 200px;
+	text-shadow: 0 0 3px black;
+	width: 500px;
+	border:1px;
+	font-family: sans-serif;
+	font-size: 40px;
+	margin-left: 20px;
+}
+div.v-line1{
+	position: absolute;
+	margin-left: 40%;
+	width: 1px;
+	margin-top: 5%;
+	height: 400px;
+	background-color:#ccc; 
+}
+div.how-text{
+	position: absolute;
+	color: black;
+	color: white;
+	text-shadow:  0 0 3px black;
+	font-family:arial;
+	font-size: 28px;
+	margin-top: 180px;
+	margin-left: 50%;
+	width: 500px;
+}
+/*Buy Domain css start from here*/
+button.q{
+	position: center;
+	float: right;
+	cursor: pointer;
+	border:groove;
+	width: 200px;
+	height: 40px;
+	border-color: white;
+	margin:200px;
+	padding: 0;
+	color: white;
+	font-size: 18px;
+	line-height: 40px;
+	box-shadow: 0 0 10px black;
+	background-color: transparent;
+}
+button.q:hover{
+	box-shadow: 0 0 10px white;
+}
+div.main2{
+	text-align: center;
+	margin-top: 40px;
+	position: absolute;
+	padding: 10px;
+}
+/*Trial web content starts from here*/
+div.trial-box{
+	position: static;
+	background: url(city.jpg);
+	background-size: cover;
+	width: 100%;
+	height:480px;
+	color: white;
+	margin-top: 700px;
+}
+div.trial{
+	color: white;
+	position: absolute;
+	margin-top: 100px;
+	width: 490px;
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-left: 20px;
+}
+div.v-line{
+	margin-top: 100px;
+	width: 1px;
+	position:absolute;
+	margin-left: 40%;
+	background-color: #ccc;
+	height: 200px;
+}
+button.trial{
+	position:absolute;
+	margin-top: 250px;
+	width: 100px;
+	height: 40px;
+	border:none;
+	background-color:#4285f4;
+	color:white;
+	font-family: sans-serif;
+	font-size: 15px;
+	margin-left:100px;
+}
+div.img-b{
+	box-shadow: 0px 0px 50px 6px black;	
+	border:groove;
+	width: 500px;
+	position:absolute;
+	height: 200px;
+	margin-top: 100px;
+	margin-left: 50%;
+}
+img.trial{
+	position: absolute;
+	border:none;
+	height: 200px;
+	width: 500px;
+	margin-top: 0px;
+	border-color: black;
+}
+/*top main nav Ends from here*/
+/*Transparent div css starts from here*/
+div.trans{
+	height: 500px;
+	width: 100%;
+}
+div.b-trans{
+	background-color: transparent;
+	height: 500px;
+	width: 100%;
+}
+/*Transparent Ends from here*/
+/*Animation you started from here*/
+div.l{
+	margin:200px;
+	transform: translateX(-200%,-200%);
+	height: 200px;
+	background-attachment: fixed;
+}
+div.l h1{
+	text-align: center;
+	margin: 0 auto;
+	color:white;
+	background-color: transparent;
+}
+/*Footer css starts from here*/
+footer{
+	float: left;
+	width: 100%;
+	height: 500px;
+	margin-top: 500px;
+	position: static;
+	background-color:black;
+}
+div.f0{
+	position: absolute;
+	color:white;
+	margin-left: 100px;
+	margin-top: 10px;
+}
+div.lfo{
+	position: absolute;
+	background-color: #202020;
+	width: 100%;
+	height: 100px;
+	margin-top: 480px;
+}
+div.lfo input{
+	padding: 10px;
+	border:none;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+div.lfo b{
+	color: #bdbdbd;
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+div.f1{
+	position: absolute;
+	color:white;
+	margin-left: 500px;
+	margin-top: 10px;
+}
+div.f2{
+	position: absolute;
+	color:white;
+	margin-left: 1000px;
+	margin-top: 10px;
+}
+/*freedom content coding starts from here*/
+div.free-box{
+	display: block;
+	width: 100%;
+	position: absolute;
+	margin-top: 700px;
+	background-size: cover;
+	background:url(igi.png);
+	height: 400px;
+}	
+div.free-r-txt{
+	font-family: sans-serif;
+	font-size: 42px;
+	width: 500px;
+	margin-left: 20px;
+
+	float: left;
+	margin-top: 10%;
+}
+div.free-l-txt{
+	font-family: sans-serif;
+	font-size: 40px;
+	width:600px;
+	margin-right: -700px;
+	float:right;
+	font-family: sans-serif;
+	font-size: 23px;
+	margin-top: -100px;	
+}
+div.f2box{
+	width: 100%;
+	box-shadow: none;
+	margin-top:-300px;
+	background-attachment: fixed;
+}
+/*Freedom content ends from here*/
+
+/*feature box coding starts from here*/
+div.fea-box{
+	width: 100%;
+	display: block;
+	height: 500px;
+	margin-top: 500px;
+	background-attachment: fixed;
+	position: absolute;
+	background:url(ggrass.jpg);
+}
+div.f-l-cont{
+	margin:0 auto;
+	margin-top: -400px;
+	float: right;
+	margin-right: -700px;
+	width: 500px;
+	position: absolute;
+	font-family: sans-serif;
+	font-size: 50px;
+}
+div.f-l-cont b{
+	display: block;
+	margin-top:500px;
+	margin-left: 20px;
+}
+div.fea-r-cont p{
+	margin:0 auto;
+	margin-top: -150px;
+	float: right;
+	margin-right: -700px;
+	width: 600px;
+	font-family: sans-serif;
+	font-size: 23px;
+	margin-top: -220px;
+}
+b.fea-b{
+	margin:0px auto;
+	margin-top: -200px;
+	top: 0px;
+}
+/*Feature box coding ends from here*/
+/*Recent projects 3d coding starts from here*/
+div.Recent3d{
+	text-align: center;
+	height: 500px;
+	background-color:transparent;	 
+	width: 100%;
+	overflow: show;
+}
+div.Recent3d h1{
+	color: white;
+}
+ul.rp{
+	position: relative;
+	left: 40%;
+	top: 00%;
+	color: white;
+}
+ul.rp li.rpl{
+display:block;
+width:240px;
+height:280px;
+background:#fff;
+position: absolute;
+box-shadow: 10px 10px 20px rgba(0,0,0,5);
+top:0;
+color: white;
+left:0;
+transition:.5s;
+}
+ul.rp li.rpl span{
+display:block;
+color:white;
+text-align:center;
+font-size: 5m;
+line-height:260px;
+}
+ul.rp li.rpl:nth-child(1){
+background:url(frozgaints.jpg);
+font-size: 28px;
+text-shadow: 0 0 10px black;
+background-size: cover;
+transform: rotate(5deg) skew(0deg) translate(200px,0);
+}
+ul.rp li.rpl:nth-child(2){
+	background:url(Microapple.jpg);
+	font-size: 28px;
+	text-shadow: 0 0 10px black;
+	background-size: cover;
+	transform: rotate(0deg) skew(0deg) translate(0,0);
+}
+ul.rp li.rpl:nth-child(3){
+	background:url(Galaxy.jpg);
+	font-size: 28px;
+	text-shadow: 0 0 10px black;
+	background-size: cover;
+	color: white;
+transform: rotate(-5deg) skew(0deg) translate(-200px,0);
+}
+ul.rp li.rpl:nth-child(1):hover{
+background:url(frozgaints.jpg);
+cursor: pointer;	
+border-bottom-color:black;
+background-size: cover;
+transform: rotate(5deg) skew(0deg) translate(200px,0);
+border-bottom-color:black;
+border-color: black;
+border-bottom: groove;
+border-bottom-height:40px;
+}
+ul.rp li.rpl:nth-child(2):hover{
+	background:url(Microapple.jpg);
+	background-size: cover;
+	cursor: pointer;	
+	transform: rotate(0deg) skew(0deg) translate(0,0);
+	border-bottom-color:black;
+	border-color: black;
+	border-bottom: groove;
+	border-bottom-height:40px;
+}
+ul.rp li.rpl:nth-child(3):hover{
+	background:url(Galaxy.jpg);
+	background-size: cover;
+	cursor: pointer;	
+	color: white;
+transform: rotate(-5deg) skew(0deg) translate(-200px,0);
+border-bottom-color:black;
+border-color: black;
+border-bottom: groove;
+border-bottom-height:40px;
+}
+ul.rp li.rpl:before{
+content:' ';
+position:absolute;
+background:#fc2427;
+bottom:0;
+width:50%;
+height:10px;
+transition:.1s;
+left:0;
+}
+ul.rp li.rpl:after{
+content:' ';
+width:50%;
+height:10px;
+position:absolute;
+background:black;
+transition:.1s;
+right:0;
+bottom:0;
+}
+/*Recent 3d ends*/
+/*Grid list starts*/
+div.Grid-box{
+	margin:0% auto;
+	height:400px;
+	background-color:transparent;
+	float: left;
+	width: 100%;
+	height: 400px;
+}
+div.gr{
+float: left;
+text-align: center;
+color:white;
+background-color:transparent;
+height: 600px;
+font-size: 20px;
+width: 250px;
+margin-left: 30px;
+}
+div.gr input{
+	border:1px groove;
+	height: 40px;
+	color: white;
+	line-height: 40px;
+	background-color: transparent;
+	width: 90px;
+	border-radius: 40px;
+}
+div.gr input:hover{
+	border:none;
+	background-color: white;
+	color: black;
+	height: 40px;
+	line-height: 40px;
+	width: 90px;
+	border-radius: 40px;
+}
+/*Grid ends from here*/
+/*slider coding starts from here */
+div.themes-box{
+	width: 500px;
+	margin-top: 90px;
+	margin-right: 100px;
+	float: right;
+	overflow: hidden;
+	border:none;
+	box-shadow: 0 0 20px;
+	height: 300px;
+}
+div.themes-box-slide{
+	height: 600px;
+	width: 100%;
+	float: right;
+}
+div.text-l-thm{
+	background-size: cover;
+	background-size: 10%;
+	background:url(black.jpg);
+	font-family: sans-serif;
+	font-size: 30px;
+	width:100%;	
+	height: 500px;
+	margin-top: 1100px;
+}
+div.as{
+	margin-top: -5px;
+	position: absolute;
+}
+div.text-l-thm p{
+	color: white;
+	margin-top: 120px;
+	width: 400px;
+	margin-left: 30px;
+}
+div.text-l-thm input{
+	width: 190px;
+	height: 50px;
+	border:none;
+	border-radius: 40px;
+	line-height: 40px;
+	background: #ccc;
+	color: black;
+	margin-top: 20px;
+	margin-left: 100px;
+}
+div.text-l-thm input:hover{
+	width: 190px;
+	height: 50px;
+	border-radius: 40px;
+	line-height: 40px;
+	background: black;
+	color: white;
+	margin-top: 20px;
+	margin-left: 100px;
+}
+div.themes-box-slide{
+	position: relative;
+	width: 1500px;
+	animation-name: harshit;
+	animation-duration:15s;
+	animation-iteration-count: infinite;
+}
+@keyframes harshit{
+	from{
+		right: 0px;
+	}
+	26.6%{
+		right:0px;	
+	}
+	33.3%{
+		right:-500px; 
+	}
+	60%{
+		right: -500px;
+	}
+	66.6%{
+		right: -1000px;
+	}
+	70%{
+		right: -1000px;
+	}
+	to{
+		right: -1500px;
+	}
+}
+}
+/*slider ends from here*/
+/*Ends from here*/
