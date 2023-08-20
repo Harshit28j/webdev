@@ -1,0 +1,252 @@
+body{
+		background-position:center;
+		background:url(ice.jpg);
+		background-size: 1100px;
+	}
+	button{	
+		opacity:900;
+		width: 700px;
+		font-size: 15;
+		word-spacing: 2px;
+		text-align: center;
+		text-decoration: none;
+		letter-spacing: 2px;
+		height: 110px;
+		border-radius: 12px;
+		box-shadow: 0 0 20px;
+		border-color: solid white;
+	}
+	button.c1{
+		width: 900px;
+		background: url(5.jpg);
+		background-size: 896px;
+		font-size: 50;
+		height: 100px;
+		text-decoration: none;
+		word-spacing: 0px;
+		box-shadow: 0 0 75px white;
+		transition: .2s;
+		border-color: white;
+		border-radius: 10px;
+		color: white;
+		background-position: center;
+		background-color: black;
+	}
+	button.c1:hover{
+		border-radius: 10px;
+		border-color:white;
+		background: url(5.jpg);
+		background-size: 896px;
+		color: white;
+		border-right-color: white;
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+	button:hover{
+		color: white;
+		background: url(ice.jpg);
+		background-size: 500px;
+		border-radius: 12px;
+		background-position: center;
+		border-color: white ;
+	}
+	button.b1{
+		opacity: .8;
+		transition:all .2s;
+		text-decoration: none;
+	}
+	button.b1:hover{
+		opacity: 100;
+		text-decoration: none;
+		color: white;
+		transform: scale(1.05);
+		background: url(MLZS.jpg);
+		background-position: center;
+		background-size: 690px;
+		box-shadow: 0 0 12px black;
+		background-repeat: no-repeat;
+	}
+	button.b4{
+		transition:all .2s;
+		opacity: .8;
+	}
+	button.b4:hover{
+		opacity: 1;
+		color: green;
+		background:url(h.jpg);
+		background-size: 690px;
+		transform: scale(1.05);
+		box-shadow: 0 0 10px black;
+		background-repeat: no-repeat;
+		background-position: center;
+}
+button.as{
+	opacity: .8;
+	transition:all .2s;
+
+}
+button.as:hover{
+	opacity: 1;
+	background:url(Francis.jpg);
+	position: center;
+	color: #FFF07A;
+	transform: scale(1.05);
+	box-shadow: 0 0 10px black;
+	background-size: 200px;
+}
+button.po{
+	opacity: .8;
+	transition:all .2s;
+	margin:0px;
+}
+button.po:hover{
+	opacity: 1;
+	background:url(MPS.jpg);
+	position: center;
+	margin:0px;
+	color:yellow;
+	transform: scale(1.05);
+	box-shadow: 0 0 10px black;
+	background-size: 680px;
+	background-position:center;
+}
+button.b5{
+		opacity: .8;
+		transition:all .2s;
+	}
+	button.b5:hover{
+		opacity: 1;
+		color: red;
+		transform: scale(1.05);
+		background: url(GST.jpg);
+		background-position: center;
+		background-size: 700px;
+		box-shadow: 0 0 12px black;
+		background-repeat: no-repeat;
+	}
+button.b6{
+		opacity: .8;
+		transition:all .2s;
+	}
+	button.b6:hover{
+		opacity: 1;
+		color: red;
+		transform: scale(1.05);
+		background: url(GPS.jpg);
+		background-position: center;
+		background-size: 690px;
+		box-shadow: 0 0 12px black;
+		background-repeat: no-repeat;
+	}
+button.b7{
+		opacity: .8;
+		transition:all .2s;
+	}
+	button.b7:hover{
+		opacity: 1;
+		color: red;
+		transform: scale(1.05);
+		background: url(shemford.png);
+		background-position: center;
+		background-size: 690px;
+		box-shadow: 0 0 12px black;
+		background-repeat: no-repeat;
+	}
+button.b8{
+		opacity: .8;
+		transition:all .2s;
+	}
+	button.b8:hover{
+		opacity: 1;
+		color: red;
+		transform: scale(1.05);
+		background: url(sach.jpg);
+		background-position: center;
+		background-size: 690px;
+		box-shadow: 0 0 12px black;
+		background-repeat: no-repeat;
+	}
+button.b9{
+		opacity: .8;
+		transition:all .2s;
+	}
+	button.b9:hover{
+		opacity: 1;
+		color: red;
+		transform: scale(1.05);
+		background: url(dps.jpg);
+		background-position: center;
+		background-size: 670px;
+		box-shadow: 0 0 12px black;
+		background-repeat: no-repeat;
+	}
+button.b10{
+		opacity: .8;
+		transition:all .2s;
+	}
+	button.b10:hover{
+		opacity: 1;
+		color: red;
+		transform: scale(1.05);
+		background: url(prelude.jpg);
+		background-position: center;
+		background-size: 690px;
+		box-shadow: 0 0 12px black;
+		background-repeat: no-repeat;
+	}
+	button.harshit{
+		width:120px;
+		height: 40px;
+		margin-top: -10px;
+		background-color: limegreen;
+		border:green;
+		text-decoration: none;
+		box-shadow: 0 0 0;
+		color: white;
+}
+button.harshit:hover{
+	width: 120px;
+	height: 40px;
+	background-image: none;
+	box-shadow:0 0 10px;
+}
+button.harshit2{
+		margin-top: -40px;
+		width:120px;
+		height: 40px;
+		background-color: Limegreen;
+		border:green;
+		text-decoration: none;
+		box-shadow: 0 0 0;
+		color: white;
+}
+button.harshit2:hover{
+	width: 120px;
+	height: 40px;
+	background-image: none;
+	box-shadow:0 0 10px;
+}
+div.shakti{
+	float :center;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+a:hover{
+	text-decoration: none;
+	color:#ffa;
+}
+button.b11{
+		opacity: .8;
+		transition:all .2s;
+	}
+	button.b11:hover{
+		opacity: 1;
+		transform: scale(1.05);
+		background: url(Bosn.jpg);
+		background-position: center;
+		background-size: 500px;
+		color: white;
+		box-shadow: 0 0 12px black;
+	}

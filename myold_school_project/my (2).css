@@ -1,0 +1,88 @@
+body{
+	background:#262626;
+	color:white;
+}
+img{
+	border-color: white;
+	border-size:20px;
+	border-radius: 9px;
+}
+h1{
+	color: lightsalmon;
+}
+p{
+	font-size: 30px;
+}
+	button.harshit{
+		width:120px;
+		height: 40px;
+		border-radius: 9px;
+		margin-top: -10px;
+		background-color: limegreen;
+		border:green;
+		margin: 30px;
+		text-decoration: none;
+		box-shadow: 0 0 0;
+		color: white;
+}
+button.harshit:hover{
+
+		border-radius: 9px;
+	width: 120px;
+	left: 0px;
+	height: 40px;
+	background-image: none;
+	box-shadow:0 0 10px;
+}
+button.harshit2{
+		width:120px;
+		margin-left: 250px;
+		margin-right: 200px;
+		height: 40px;
+		position: center;
+		border-radius: 9px;
+		background-color: Limegreen;
+		border:green;
+		text-decoration: none;
+		box-shadow: 0 0 0;
+		color: white;
+}
+button.harshit2:hover{
+		border-radius: 9px;
+	width: 120px;
+	height: 40px;
+	background-image: none;
+	box-shadow:0 0 10px;
+}
+button.harshit3{
+	background-color: limegreen;
+	border-radius: 9px;
+	width: 120px;
+	height: 40px;
+		position: center;
+		border-radius: 9px;
+		background-color: Limegreen;
+		border:green;
+		text-decoration: none;
+		box-shadow: 0 0 0;
+		color: white;
+}
+button.harshit3:hover{
+	border-radius: 9px;
+	width: 120px;
+	height: 40px;
+	background-image: none;
+	box-shadow:0 0 10px;
+}
+div.shakti{
+
+		border-radius: 9px;
+	float :center;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+button{
+	cursor: pointer;
+}
