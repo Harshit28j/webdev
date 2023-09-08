@@ -1,1 +1,1 @@
-This is a project of web design
+This is a project of web designs
